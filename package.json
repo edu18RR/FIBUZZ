@@ -1,0 +1,22 @@
+{
+  "name": "fibuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edu18RR/FIBUZZ.git"
+  },
+  "author": "EDURR18",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edu18RR/FIBUZZ/issues"
+  },
+  "homepage": "https://github.com/edu18RR/FIBUZZ#readme",
+  "devDependencies": {
+    "jest": "^29.0.2"
+  }
+}
